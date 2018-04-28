@@ -1,7 +1,14 @@
 {
-  "name": "react-app",
+  "name": "react-redux-todo",
   "version": "0.1.0",
-  "private": true,
+  "description": "A small and simple Todo App using react and redux.",
+  "keywords": [
+    "javascript",
+    "react",
+    "redux"
+  ],
+  "author": "Nahidul Hasan <nahidul.cse@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
